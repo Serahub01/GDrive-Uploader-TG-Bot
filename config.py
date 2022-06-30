@@ -3,7 +3,7 @@ import os
 class Config:
   ENV = bool(os.environ.get('ENV', False))
   if ENV:
-    BOT_TOKEN = 5496840508:AAFDudBkxQi0_3DLoXG17p_y-_xriUtO2Z0
+    BOT_TOKEN = '5508399208:AAFEMr_OO9-Wq_jLqrGAVm2Wd5by92Eqy1w'
     APP_ID = '8029584'
     API_HASH = '6b180e500358dc28a103e3d0fa0c919d'
     DATABASE_URL = 'postgres://mtunxnmpjfhotc:65030c51bc91376e2e4fcbf42cf7583db2ca401af2c3954e4792abab54f91dda@ec2-44-198-82-71.compute-1.amazonaws.com:5432/d3elfnilfv0nn3'
